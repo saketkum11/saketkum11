@@ -6,7 +6,7 @@ Frontend Developer
 
 I have been learning code for one year, after changing my core. Learning new skills always creates curiosity. So, while learning HTML found Frontend Developement interesting. Building new thing with tech......
 
-* 🖥️  See my portfolio at [Saket Portfolio](http://saketkum.netlify.app/)
+* 🖥️  See my portfolio at [Saket Portfolio]((https://saket-kumar.netlify.app/))
 * ✉️  You can contact me at [kumarsaket601@gmail.com](mailto:kumarsaket601@gmail.com)
 * 🧠  I'm learning Backend Development
 
